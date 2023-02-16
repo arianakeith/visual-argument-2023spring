@@ -34,4 +34,12 @@ source: https://www.usatoday.com/story/news/nation/2023/02/15/michigan-state-uni
 
 Source: https://www.washingtonpost.com/nation/2023/02/13/michigan-state-university-shooting/
 
+<img width="1375" alt="NBC" src="https://user-images.githubusercontent.com/122424503/219457654-1936c5b6-50ca-4660-8413-968e34a9ae09.png">
+
+source: https://www.nbcnews.com/news/us-news/michigan-state-university-shooting-rcna70523
+
+<img width="862" alt="Screen Shot 2023-02-16 at 1 40 12 PM" src="https://user-images.githubusercontent.com/122424503/219457884-dd6aa682-90d1-4bc3-9e0c-31a20b534c1d.png">
+
+source: https://www.fox2detroit.com/tag/crime-publicsafety/msu-shooting
+
 
