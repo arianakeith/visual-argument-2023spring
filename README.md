@@ -1,4 +1,4 @@
-# Time for Action by Ariana Keith
+# "Time for Action" by Ariana Keith
 
 My visual argument is meant to bring awareness to gun violence and how it has affected schools and safety for students across the country. The motivation to create a call-to-action visual was prompted by the devestating Michigan State shooting that happed on Febuary 13th 2023. 
 
