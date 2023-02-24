@@ -2,7 +2,7 @@
 
 My visual argument is meant to bring awareness to gun violence and how it has affected schools and safety for students across the country. The motivation to create a call-to-action visual was prompted by the devestating Michigan State shooting that happed on Febuary 13th 2023. 
 
-The intended file to view is called "Collage.xcf" or "Collage.png"
+The intended file to view is called "Collage.xcf" or "Collagefulldraft.png"
 
 Credits:
 
